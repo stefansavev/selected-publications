@@ -1,0 +1,4 @@
+http://bigcheese.math.sc.edu/~dilworth/preprints_files/BDFKK.pdf
+(some explanations 
+https://dustingmixon.wordpress.com/2013/12/02/deterministic-rip-matrices-breaking-the-square-root-bottleneck/ )
+
